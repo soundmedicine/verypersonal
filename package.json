@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/soundmedicine/verypersonal/issues"
   },
-  "homepage": "https://github.com/soundmedicine/verypersonal#readme"
+  "homepage": "https://github.com/soundmedicine/verypersonal#readme",
+  "dependencies": {
+    "node": "^10.11.0"
+  }
 }
